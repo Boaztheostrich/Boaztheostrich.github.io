@@ -2,17 +2,17 @@
 ### <p align="center">Resume and Ongoing Projects</p>
 
 
-<p align="center">text</p>
-<p style="text-align: center;">Centered text</p>
-Normal Text
+#### <p align="center">NanoLeaf Competitor</p>
+
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="https://github.com/Boaztheostrich/Boaztheostrich.github.io/blob/main/images/Screen%20Shot%202021-09-27%20at%203.16.00%20PM.png?raw=true">
+  My original design intent with this product was to match the shape offered by the popular nanoleaf brand. 
+   <img src="https://github.com/Boaztheostrich/Boaztheostrich.github.io/blob/main/images/Photos/IMG_2594.jpg?raw=true">
+  However upon further market research I determined that this shape would not allow me to be competitive; as there already were other alternitives which offered the same features at my design at a lower cost. This led me to rethink the design and settle on a catagory that has been mainly overlooked by both China and the US based NanoLeaf brand, rectangles.  
 </p>
 
-Normal text
+<p align="center">
+While at first rectangles may seem a less versatile shape, they can be more easily used to form numbers and letters which is an area of the market which has not yet been capitilized on. With this in mind I redesigned the panels and made what is shown below.
+  <img src="https://github.com/Boaztheostrich/Boaztheostrich.github.io/blob/main/images/Photos/64720297421__4100A3D1-11A5-4C43-82FC-CC53B507D0D0.jpg?raw=true">
+  <img src="https://github.com/Boaztheostrich/Boaztheostrich.github.io/blob/main/images/Photos/64720334915__FC7757E4-C45C-480A-92CA-59B91B15B3D9.jpg?raw=true">
+</p>
