@@ -1,5 +1,8 @@
-# Boaztheostrich.github.io
-Website
+# <p align="center">Boaz Burnett</p>
+### <p align="center">Resume and Ongoing Projects</p>
+
+
+<p align="center">text</p>
 <p style="text-align: center;">Centered text</p>
 Normal Text
 
