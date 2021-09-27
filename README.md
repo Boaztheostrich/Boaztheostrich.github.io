@@ -9,7 +9,7 @@ Normal Text
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="https://photos.app.goo.gl/b1koYNArVghytBQC6">
+  <img src="https://github.com/Boaztheostrich/Boaztheostrich.github.io/blob/main/images/Screen%20Shot%202021-09-27%20at%203.16.00%20PM.png?raw=true">
 </p>
 
 Normal text
