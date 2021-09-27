@@ -20,5 +20,5 @@ While at first rectangles may seem a less versatile shape, they can be more easi
 <br>
 
 <p align="center">
-Work on this project has been paused at the moment as other opportunities that excited me more presented themselves. However the basics of programmable led strips has carried on to my next project.
+Work on this project has been paused, as other opportunities that excited me more presented themselves. However the basics of programmable led strips has carried on to my next project.
 </p>
