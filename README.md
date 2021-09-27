@@ -1,8 +1,8 @@
 <h1 align="center">Boaz Burnett</h1>
-### <p align="center">Resume and Ongoing Projects</p>
+<h3 align="center">Resume and Ongoing Projects</h3>
 
 
-#### <p align="center">NanoLeaf Competitor</p>
+<h4 align="center">NanoLeaf Competitor</h4>
 
 
 <p align="center">
