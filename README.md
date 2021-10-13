@@ -5,6 +5,8 @@
 <h3 align="center">NanoLeaf Competitor</h3>
 
 
+
+
 <p align="center">
   My original design intent with this product was to match the shape offered by the popular nanoleaf brand. 
    <img src="https://github.com/Boaztheostrich/Boaztheostrich.github.io/blob/main/images/Photos/IMG_2594.jpg?raw=true">
