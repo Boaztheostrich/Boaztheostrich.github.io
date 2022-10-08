@@ -1,4 +1,4 @@
-<h1 align="center">Boaz Burnett</h1>
+<h1 align="center">Boaz Burnetttt</h1>
 <h3 align="center">Resume and Ongoing Projects</h3>
 <br>
 
